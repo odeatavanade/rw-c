@@ -17,5 +17,5 @@ on:
 jobs:
   # This workflow contains a single job called "build"
   build:
-    uses: odeatavanade/rw/srw.yml@main
+    uses: odeatavanade/rw/.github/workflows/srw.yml@main
     
